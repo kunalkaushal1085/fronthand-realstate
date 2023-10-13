@@ -12,7 +12,7 @@ import { Pricing } from "../component/pricing/Pricing";
 import { Header } from "../component/header/header";
 import { Footer } from "../component/footer/footer";
 import { useNavigate } from "react-router-dom";
-
+// sd,sajbsm
 export const HomePage = () => {
   // const navigate = useNavigate();
   // useEffect(() => {
